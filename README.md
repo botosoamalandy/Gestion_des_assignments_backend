@@ -1,4 +1,4 @@
-# backTanjonaOlivia2021
+# Botosoamalandy
 
 ##DOCUMENTATION DU PROJET BACKTEND GEESTION DES ASSIGNMENTS
 	. Pour que ce projet fonctionne sur votre ordinateur, il faut cloner les sources sur github.
